@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiomysql
+redis
+pydantic
+cryptography>=41.0
