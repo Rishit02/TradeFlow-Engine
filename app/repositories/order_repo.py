@@ -1,4 +1,5 @@
 # app/repositories/order_repo.py
+from sqlalchemy import select
 from db.mysql import SessionLocal
 from models.order import Order
 
